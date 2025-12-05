@@ -1,0 +1,17 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Optional: Keep if you want to ignore local test images/videos
+# But remember: images/videos should be on Google Drive anyway!
+# test_assets/
+
